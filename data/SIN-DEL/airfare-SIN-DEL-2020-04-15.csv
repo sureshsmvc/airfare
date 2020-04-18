@@ -1,0 +1,417 @@
+carrier,departure_time,stops,source,destination,itinerary_type,travel_date,days_before_travel,price
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-01,15,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-01,15,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-01,15,Price unavailable
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-02,16,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-02,16,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-02,16,Price unavailable
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-03,17,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-03,17,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-03,17,Price unavailable
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-04,18,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-04,18,"1,064"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-04,18,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-05,19,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-05,19,433
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-05,19,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-05,19,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-05,19,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-06,20,261
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-06,20,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-06,20,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-06,20,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-07,21,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-07,21,358
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-07,21,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-07,21,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-07,21,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-08,22,271
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-08,22,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-08,22,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-08,22,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-09,23,271
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-09,23,368
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-09,23,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-09,23,"1,064"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-09,23,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-10,24,271
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-10,24,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-10,24,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-10,24,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-11,25,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-11,25,358
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-11,25,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-11,25,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-11,25,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-12,26,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-12,26,358
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-12,26,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-12,26,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-12,26,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-13,27,261
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-13,27,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-13,27,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-13,27,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-14,28,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-14,28,358
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-14,28,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-14,28,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-14,28,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-15,29,383
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-15,29,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-15,29,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-15,29,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-16,30,383
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-16,30,448
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-16,30,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-16,30,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-16,30,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-17,31,383
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-17,31,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-17,31,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-17,31,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-18,32,373
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-18,32,513
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-18,32,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-18,32,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-18,32,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-19,33,373
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-19,33,438
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-19,33,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-19,33,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-19,33,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-20,34,373
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-20,34,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-20,34,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-20,34,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-21,35,373
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-21,35,438
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-21,35,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-21,35,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-21,35,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-22,36,383
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-22,36,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-22,36,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-22,36,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-23,37,383
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-23,37,448
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-23,37,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-23,37,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-23,37,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-24,38,383
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-24,38,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-24,38,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-24,38,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-25,39,373
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-25,39,438
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-25,39,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-25,39,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-25,39,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-26,40,373
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-26,40,438
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-26,40,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-26,40,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-26,40,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-27,41,373
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-27,41,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-27,41,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-27,41,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-28,42,373
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-28,42,513
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-28,42,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-28,42,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-28,42,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-29,43,383
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-29,43,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-29,43,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-29,43,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-30,44,487
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-05-30,44,523
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-30,44,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-30,44,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-30,44,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-05-31,45,487
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-05-31,45,"1,012"
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-05-31,45,"1,012"
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-05-31,45,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-01,46,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-01,46,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-01,46,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-01,46,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-01,46,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-02,47,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-02,47,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-02,47,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-02,47,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-02,47,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-03,48,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-03,48,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-03,48,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-03,48,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-03,48,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-04,49,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-04,49,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-04,49,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-04,49,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-04,49,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-05,50,380
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-05,50,526
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-05,50,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-05,50,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-05,50,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-06,51,380
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-06,51,487
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-06,51,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-06,51,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-06,51,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-07,52,380
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-07,52,487
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-07,52,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-07,52,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-07,52,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-08,53,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-08,53,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-08,53,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-08,53,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-08,53,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-09,54,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-09,54,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-09,54,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-09,54,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-09,54,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-10,55,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-10,55,418
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-10,55,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-10,55,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-10,55,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-11,56,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-11,56,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-11,56,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-11,56,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-11,56,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-12,57,380
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-12,57,487
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-12,57,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-12,57,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-12,57,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-13,58,380
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-13,58,487
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-13,58,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-13,58,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-13,58,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-14,59,380
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-14,59,558
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-14,59,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-14,59,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-14,59,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-15,60,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-15,60,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-15,60,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-15,60,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-15,60,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-16,61,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-16,61,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-16,61,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-16,61,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-16,61,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-17,62,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-17,62,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-17,62,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-17,62,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-17,62,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-18,63,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-18,63,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-18,63,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-18,63,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-18,63,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-19,64,380
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-19,64,487
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-19,64,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-19,64,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-19,64,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-20,65,380
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-20,65,487
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-20,65,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-20,65,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-20,65,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-21,66,380
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-21,66,558
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-21,66,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-21,66,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-21,66,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-22,67,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-22,67,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-22,67,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-22,67,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-22,67,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-23,68,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-23,68,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-23,68,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-23,68,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-23,68,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-24,69,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-24,69,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-24,69,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-24,69,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-24,69,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-25,70,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-25,70,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-25,70,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-25,70,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-25,70,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-26,71,380
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-26,71,487
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-26,71,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-26,71,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-26,71,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-27,72,380
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-27,72,487
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-27,72,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-27,72,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-27,72,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-28,73,380
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-28,73,558
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-28,73,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-28,73,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-28,73,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-29,74,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-29,74,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-29,74,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-29,74,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-29,74,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-06-30,75,370
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-06-30,75,477
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-06-30,75,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-06-30,75,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-06-30,75,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-01,76,290
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-01,76,302
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-01,76,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-01,76,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-01,76,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-02,77,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-02,77,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-02,77,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-02,77,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-02,77,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-03,78,271
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-03,78,300
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-03,78,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-03,78,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-03,78,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-04,79,300
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-04,79,416
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-04,79,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-04,79,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-04,79,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-05,80,300
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-05,80,312
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-05,80,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-05,80,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-05,80,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-06,81,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-06,81,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-06,81,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-06,81,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-06,81,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-07,82,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-07,82,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-07,82,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-07,82,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-07,82,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-08,83,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-08,83,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-08,83,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-08,83,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-08,83,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-09,84,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-09,84,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-09,84,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-09,84,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-09,84,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-10,85,271
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-10,85,300
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-10,85,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-10,85,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-10,85,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-11,86,300
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-11,86,312
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-11,86,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-11,86,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-11,86,Price unavailable
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-12,87,300
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-12,87,312
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-12,87,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-12,87,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-12,87,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-13,88,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-13,88,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-13,88,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-13,88,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-13,88,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-14,89,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-14,89,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-14,89,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-14,89,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-14,89,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-15,90,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-15,90,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-15,90,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-15,90,582
+IndiGo,23:25,Non-stop,SIN,DEL,one-way,2020-07-15,90,Price unavailable
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-16,91,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-16,91,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-16,91,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-16,91,582
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-17,92,271
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-17,92,300
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-17,92,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-17,92,582
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-18,93,300
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-18,93,312
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-18,93,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-18,93,582
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-19,94,300
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-19,94,312
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-19,94,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-19,94,582
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-20,95,290
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-20,95,302
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-20,95,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-20,95,582
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-21,96,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-21,96,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-21,96,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-21,96,582
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-22,97,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-22,97,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-22,97,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-22,97,582
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-23,98,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-23,98,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-23,98,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-23,98,582
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-24,99,271
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-24,99,300
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-24,99,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-24,99,582
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-25,100,300
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-25,100,312
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-25,100,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-25,100,582
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-26,101,300
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-26,101,312
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-26,101,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-26,101,582
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-27,102,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-27,102,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-27,102,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-27,102,582
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-28,103,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-28,103,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-28,103,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-28,103,582
+Vistara,09:30,Non-stop,SIN,DEL,one-way,2020-07-29,104,261
+Air India,08:35,Non-stop,SIN,DEL,one-way,2020-07-29,104,290
+Singapore Airlines,02:35,Non-stop,SIN,DEL,one-way,2020-07-29,104,582
+Singapore Airlines,16:50,Non-stop,SIN,DEL,one-way,2020-07-29,104,582
