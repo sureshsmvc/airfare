@@ -1,0 +1,498 @@
+carrier,departure_time,stops,source,destination,itinerary_type,travel_date,days_before_travel,price
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-01,11,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-01,11,972
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-01,11,Price unavailable
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-02,12,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-02,12,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-02,12,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-02,12,Price unavailable
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-03,13,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-03,13,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-03,13,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-03,13,Price unavailable
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-04,14,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-04,14,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-04,14,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-05,15,313
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-05,15,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-05,15,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-05,15,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-06,16,218
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-06,16,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-06,16,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-06,16,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-07,17,218
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-07,17,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-07,17,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-07,17,Price unavailable
+Scoot,22:50,Non-stop,SIN,MAA,one-way,2020-05-08,18,134
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-08,18,150
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-08,18,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-08,18,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-08,18,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-08,18,Price unavailable
+Scoot,22:50,Non-stop,SIN,MAA,one-way,2020-05-09,19,126
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-09,19,150
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-09,19,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-09,19,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-09,19,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-09,19,Price unavailable
+Scoot,22:50,Non-stop,SIN,MAA,one-way,2020-05-10,20,134
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-10,20,168
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-10,20,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-10,20,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-10,20,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-10,20,Price unavailable
+Scoot,22:50,Non-stop,SIN,MAA,one-way,2020-05-11,21,134
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-11,21,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-11,21,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-11,21,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-11,21,Price unavailable
+Scoot,22:50,Non-stop,SIN,MAA,one-way,2020-05-12,22,143
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-12,22,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-12,22,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-12,22,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-12,22,Price unavailable
+Scoot,22:50,Non-stop,SIN,MAA,one-way,2020-05-13,23,134
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-13,23,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-13,23,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-13,23,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-13,23,Price unavailable
+Scoot,22:50,Non-stop,SIN,MAA,one-way,2020-05-14,24,143
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-14,24,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-14,24,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-14,24,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-14,24,Price unavailable
+Scoot,22:50,Non-stop,SIN,MAA,one-way,2020-05-15,25,143
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-15,25,150
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-15,25,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-15,25,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-15,25,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-15,25,Price unavailable
+Scoot,22:50,Non-stop,SIN,MAA,one-way,2020-05-16,26,143
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-16,26,150
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-16,26,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-16,26,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-16,26,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-16,26,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-17,27,150
+Scoot,22:50,Non-stop,SIN,MAA,one-way,2020-05-17,27,156
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-17,27,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-17,27,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-17,27,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-17,27,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-18,28,150
+Scoot,22:50,Non-stop,SIN,MAA,one-way,2020-05-18,28,201
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-18,28,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-18,28,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-18,28,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-19,29,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-19,29,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-19,29,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-19,29,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-20,30,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-20,30,972
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-05-20,30,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-20,30,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-20,30,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-21,31,168
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-21,31,972
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-05-21,31,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-21,31,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-21,31,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-22,32,150
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-22,32,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-22,32,972
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-05-22,32,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-22,32,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-22,32,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-23,33,218
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-23,33,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-23,33,972
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-05-23,33,"1,032"
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-23,33,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-23,33,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-24,34,168
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-24,34,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-24,34,972
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-05-24,34,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-24,34,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-24,34,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-25,35,168
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-25,35,972
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-05-25,35,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-25,35,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-25,35,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-26,36,168
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-26,36,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-26,36,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-26,36,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-27,37,168
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-27,37,972
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-05-27,37,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-27,37,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-27,37,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-28,38,168
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-28,38,972
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-05-28,38,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-28,38,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-28,38,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-29,39,168
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-29,39,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-29,39,972
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-05-29,39,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-29,39,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-29,39,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-30,40,218
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-30,40,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-30,40,972
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-05-30,40,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-30,40,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-30,40,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-05-31,41,218
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-05-31,41,972
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-05-31,41,972
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-05-31,41,972
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-05-31,41,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-05-31,41,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-01,42,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-01,42,338
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-01,42,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-01,42,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-01,42,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-01,42,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-02,43,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-02,43,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-02,43,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-02,43,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-02,43,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-03,44,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-03,44,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-03,44,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-03,44,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-03,44,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-03,44,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-04,45,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-04,45,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-04,45,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-04,45,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-04,45,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-04,45,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-05,46,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-05,46,338
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-06-05,46,496
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-05,46,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-05,46,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-05,46,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-05,46,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-06,47,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-06,47,303
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-06-06,47,496
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-06,47,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-06,47,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-06,47,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-06,47,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-07,48,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-07,48,303
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-06-07,48,496
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-07,48,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-07,48,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-07,48,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-07,48,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-08,49,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-08,49,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-08,49,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-08,49,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-08,49,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-08,49,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-09,50,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-09,50,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-09,50,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-09,50,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-09,50,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-10,51,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-10,51,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-10,51,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-10,51,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-10,51,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-10,51,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-11,52,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-11,52,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-11,52,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-11,52,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-11,52,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-11,52,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-12,53,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-12,53,293
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-06-12,53,496
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-12,53,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-12,53,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-12,53,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-12,53,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-13,54,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-13,54,303
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-06-13,54,496
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-13,54,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-13,54,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-13,54,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-13,54,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-14,55,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-14,55,303
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-06-14,55,496
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-14,55,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-14,55,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-14,55,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-14,55,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-15,56,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-15,56,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-15,56,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-15,56,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-15,56,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-15,56,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-16,57,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-16,57,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-16,57,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-16,57,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-16,57,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-17,58,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-17,58,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-17,58,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-17,58,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-17,58,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-17,58,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-18,59,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-18,59,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-18,59,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-18,59,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-18,59,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-18,59,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-19,60,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-19,60,293
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-06-19,60,496
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-19,60,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-19,60,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-19,60,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-19,60,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-20,61,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-20,61,303
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-06-20,61,496
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-20,61,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-20,61,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-20,61,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-20,61,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-21,62,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-21,62,303
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-06-21,62,496
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-21,62,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-21,62,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-21,62,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-21,62,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-22,63,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-22,63,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-22,63,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-22,63,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-22,63,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-22,63,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-23,64,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-23,64,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-23,64,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-23,64,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-23,64,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-24,65,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-24,65,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-24,65,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-24,65,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-24,65,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-24,65,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-25,66,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-25,66,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-25,66,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-25,66,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-25,66,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-25,66,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-26,67,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-26,67,293
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-06-26,67,496
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-26,67,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-26,67,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-26,67,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-26,67,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-27,68,218
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-27,68,303
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-06-27,68,496
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-27,68,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-27,68,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-27,68,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-27,68,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-28,69,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-28,69,303
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-06-28,69,496
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-28,69,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-28,69,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-28,69,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-28,69,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-29,70,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-29,70,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-29,70,496
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-06-29,70,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-29,70,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-29,70,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-06-30,71,168
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-06-30,71,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-06-30,71,496
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-06-30,71,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-06-30,71,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-01,72,168
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-01,72,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-01,72,290
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-01,72,338
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-01,72,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-01,72,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-02,73,150
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-02,73,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-02,73,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-02,73,400
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-02,73,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-02,73,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-03,74,150
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-07-03,74,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-03,74,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-03,74,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-03,74,293
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-03,74,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-03,74,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-04,75,168
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-07-04,75,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-04,75,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-04,75,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-04,75,303
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-04,75,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-04,75,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-05,76,150
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-07-05,76,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-05,76,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-05,76,303
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-05,76,330
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-05,76,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-05,76,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-06,77,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-06,77,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-06,77,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-06,77,293
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-06,77,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-06,77,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-07,78,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-07,78,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-07,78,293
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-07,78,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-07,78,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-08,79,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-08,79,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-08,79,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-08,79,293
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-08,79,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-08,79,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-09,80,150
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-09,80,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-09,80,290
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-09,80,293
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-09,80,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-09,80,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-10,81,150
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-07-10,81,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-10,81,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-10,81,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-10,81,293
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-10,81,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-10,81,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-11,82,168
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-07-11,82,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-11,82,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-11,82,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-11,82,303
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-11,82,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-11,82,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-12,83,150
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-07-12,83,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-12,83,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-12,83,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-12,83,303
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-12,83,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-12,83,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-13,84,150
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-13,84,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-13,84,293
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-13,84,330
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-13,84,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-13,84,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-14,85,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-14,85,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-14,85,293
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-14,85,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-14,85,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-15,86,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-15,86,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-15,86,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-15,86,293
+IndiGo,05:30,Non-stop,SIN,MAA,one-way,2020-07-15,86,Price unavailable
+IndiGo,11:30,Non-stop,SIN,MAA,one-way,2020-07-15,86,Price unavailable
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-16,87,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-16,87,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-16,87,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-16,87,293
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-17,88,150
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-07-17,88,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-17,88,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-17,88,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-17,88,293
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-18,89,168
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-07-18,89,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-18,89,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-18,89,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-18,89,303
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-19,90,150
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-07-19,90,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-19,90,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-19,90,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-19,90,303
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-20,91,150
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-20,91,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-20,91,290
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-20,91,293
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-21,92,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-21,92,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-21,92,293
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-22,93,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-22,93,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-22,93,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-22,93,293
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-23,94,150
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-23,94,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-23,94,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-23,94,293
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-24,95,150
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-07-24,95,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-24,95,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-24,95,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-24,95,293
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-25,96,218
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-07-25,96,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-25,96,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-25,96,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-25,96,303
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-26,97,168
+Silkair,07:40,Non-stop,SIN,MAA,one-way,2020-07-26,97,250
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-26,97,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-26,97,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-26,97,303
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-27,98,168
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-27,98,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-27,98,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-27,98,293
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-28,99,168
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-28,99,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-28,99,293
+Air-India Express,00:10,Non-stop,SIN,MAA,one-way,2020-07-29,100,168
+Singapore Airlines,20:25,Non-stop,SIN,MAA,one-way,2020-07-29,100,250
+Singapore Airlines,22:50,Non-stop,SIN,MAA,one-way,2020-07-29,100,250
+Air India,09:00,Non-stop,SIN,MAA,one-way,2020-07-29,100,293
